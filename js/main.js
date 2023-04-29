@@ -1,7 +1,7 @@
 const DATA = [
 
     {
-        word: 'Translate',
+        word: 'Translator',
         translates: [
             {
                 id: '1',
